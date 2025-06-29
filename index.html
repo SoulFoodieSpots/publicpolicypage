@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | SoulFoodie+</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #b24a00; /* themeAccent */
+        }
+        h1 {
+            margin-bottom: 0.5em;
+        }
+        section {
+            margin-bottom: 1.6em;
+        }
+        a {
+            color: #b24a00;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p>Last updated: June 29, 2025</p>
+        <section>
+            <h2>Introduction</h2>
+            <p>Welcome to SoulFoodie+ (the "App"). Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our app or visit our support site.</p>
+        </section>
+
+        <section>
+            <h2>Information We Collect</h2>
+            <ul>
+                <li><strong>Personal Information:</strong> We do not require you to provide personal information to use the core features of the App. If you choose to contact support or subscribe to any newsletters, you may provide an email address.</li>
+                <li><strong>Usage Data:</strong> We may automatically collect analytics and usage information (such as app crashes, features used, and device details) through third-party services to improve the App's performance and user experience.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>How We Use Your Information</h2>
+            <p>We use the collected data to:</p>
+            <ul>
+                <li>Operate and maintain the App;</li>
+                <li>Understand and analyze how you use the App;</li>
+                <li>Improve the App’s functionality, content, and features;</li>
+                <li>Communicate with you, including sending support responses;</li>
+                <li>Monitor and prevent fraud or technical issues.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Information Sharing</h2>
+            <p>We do not sell, trade, or otherwise transfer your personal information to outside parties. We may share aggregated, non-identifiable data with our analytics partners.</p>
+        </section>
+
+        <section>
+            <h2>Cookies &amp; Tracking</h2>
+            <p>The App does not use cookies. Our third-party analytics providers may place cookies to collect usage information, which you can disable in your device settings if desired.</p>
+        </section>
+
+        <section>
+            <h2>Data Retention</h2>
+            <p>We retain analytics and usage data for as long as necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law.</p>
+        </section>
+
+        <section>
+            <h2>Security</h2>
+            <p>We implement reasonable security measures to protect your information. However, no method of electronic transmission or storage is 100% secure. Please take care when sharing sensitive data.</p>
+        </section>
+
+        <section>
+            <h2>Children’s Privacy</h2>
+            <p>The App is not intended for children under 13. We do not knowingly collect personal information from children. If you believe we have collected data from a child, please contact us.</p>
+        </section>
+
+        <section>
+            <h2>Changes to This Privacy Policy</h2>
+            <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy within the App and/or at this page.</p>
+        </section>
+
+        <section>
+            <h2>Contact Us</h2>
+            <p>If you have questions or comments about this policy, you may contact us:</p>
+            <ul>
+                <li>Support URL: <a href="https://soulfoodieplus.com" target="_blank">https://soulfoodieplus.com</a></li>
+                <li>Email: <a href="mailto:soulfoodieplus@gmail.com">soulfoodieplus@gmail.com</a></li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
